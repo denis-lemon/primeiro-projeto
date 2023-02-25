@@ -1,5 +1,7 @@
 # primeiro-projeto
 
-My first projeto
+Projetos da aula de POO
 
-A vida tende a ser decepcionante
+## Projetos
+
+- Jogo
